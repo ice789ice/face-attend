@@ -1,0 +1,4 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: numba in c:\users\ice\anaconda3\lib\site-packages (0.55.1)
+Requirement already satisfied: llvmlite<0.39,>=0.38.0rc1 in c:\users\ice\anaconda3\lib\site-packages (from numba) (0.38.0)
+INFO: pip is looking at multiple versions of numba to determine which version is compatible with other requirements. This could take a while.

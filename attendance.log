@@ -1,0 +1,16 @@
+2025-07-13 00:02:48,572 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ice\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-13 00:02:48,572 - INFO - Using writeable comtypes cache directory: 'C:\Users\ice\anaconda3\lib\site-packages\comtypes\gen'
+2025-07-13 00:02:50,901 - INFO - Dlib 模型加载成功
+2025-07-13 00:02:50,925 - INFO - 数据库初始化成功
+2025-07-13 00:03:01,261 - INFO - 加载了 10 条员工数据
+2025-07-13 00:03:16,542 - INFO - 应用程序正在关闭
+2025-07-13 00:03:16,542 - ERROR - 关闭语音引擎失败: run loop not started
+2025-07-13 00:03:16,550 - INFO - 应用程序已关闭
+2025-07-13 00:10:34,764 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\ice\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-07-13 00:10:34,764 - INFO - Using writeable comtypes cache directory: 'C:\Users\ice\anaconda3\lib\site-packages\comtypes\gen'
+2025-07-13 00:10:36,103 - INFO - Dlib 模型加载成功
+2025-07-13 00:10:36,112 - INFO - 数据库初始化成功
+2025-07-13 00:10:44,848 - INFO - 加载了 0 条员工数据
+2025-07-13 00:10:59,453 - INFO - 应用程序正在关闭
+2025-07-13 00:10:59,454 - ERROR - 关闭语音引擎失败: run loop not started
+2025-07-13 00:10:59,460 - INFO - 应用程序已关闭
